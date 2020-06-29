@@ -3,7 +3,7 @@ Random Number Generator is a Jakarta-EE application that generates pseudo-random
 
 
 ```
-- POST /random: requests a new random number generation
+POST /random: requests a new random number generation
 GET /history: get list of generated random numbers
 PUT /{requestId}/cancel: cancels a random number request
 GET stats: get system usage statistics
