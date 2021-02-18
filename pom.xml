@@ -30,7 +30,7 @@
     <!-- Test Utilities -->
     <microshed.version>0.9</microshed.version>
     <junit.version>4.12</junit.version>
-    <jackson.jaxrs.version>2.10.1</jackson.jaxrs.version>
+    <jackson.jaxrs.version>2.12.1</jackson.jaxrs.version>
     <arquillian-bom.version>1.6.0.Final</arquillian-bom.version>
     <wildfly-arquillian.version>2.2.0.Final</wildfly-arquillian.version>
 
