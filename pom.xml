@@ -34,7 +34,7 @@
     <arquillian-bom.version>1.6.0.Final</arquillian-bom.version>
     <wildfly-arquillian.version>2.2.0.Final</wildfly-arquillian.version>
 
-    <resteasy.version>3.9.0.Final</resteasy.version>
+    <resteasy.version>4.5.7.Final</resteasy.version>
     <aspectj.version>1.8.9</aspectj.version>
 
     <!-- By default, skip tests -->
